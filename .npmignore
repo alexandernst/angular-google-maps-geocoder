@@ -1,0 +1,9 @@
+.git
+.gitignore
+/node_modules
+bower.json
+CHANGELOG.md
+Gruntfile.js
+LICENSE.txt
+package.json
+README.md

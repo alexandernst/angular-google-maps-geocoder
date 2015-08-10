@@ -1,0 +1,21 @@
+{
+  "name": "angular-google-maps-geocoder",
+  "version": "0.0.1",
+  "homepage": "https://github.com/alexandernst/angular-google-maps-geocoder",
+  "authors": [
+    "Alexander Nestorov <alexandernst@gmail.com>"
+  ],
+  "description": "Angular bindings for the wonderful speakingurl library",
+  "main": "angular-google-maps-geocoder.js",
+  "keywords": [
+    "angular",
+    "google",
+    "maps",
+    "geocoder"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules"
+  ]
+}
