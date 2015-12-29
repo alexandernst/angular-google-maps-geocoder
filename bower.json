@@ -6,7 +6,7 @@
     "Alexander Nestorov <alexandernst@gmail.com>"
   ],
   "description": "Angular bindings for the wonderful speakingurl library",
-  "main": "angular-google-maps-geocoder.js",
+  "main": "dist/angular-google-maps-geocoder.min.js",
   "keywords": [
     "angular",
     "google",
