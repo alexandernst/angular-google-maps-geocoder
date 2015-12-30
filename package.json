@@ -1,6 +1,6 @@
 {
 	"name": "angular-google-maps-geocoder",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Angular typeahead google Maps Geocoder (also reverse geocoder)",
 	"main": [
 		"angular-google-maps-geocoder.js"
