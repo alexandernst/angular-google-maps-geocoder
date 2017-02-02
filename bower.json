@@ -17,5 +17,8 @@
   "ignore": [
     "**/.*",
     "node_modules"
-  ]
+  ],
+  "dependencies": {
+      "angular": ">=1.5.5"
+  }
 }
