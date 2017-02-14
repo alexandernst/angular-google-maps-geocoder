@@ -2,9 +2,7 @@
 	"name": "angular-google-maps-geocoder",
 	"version": "0.0.3",
 	"description": "Angular typeahead google Maps Geocoder (also reverse geocoder)",
-	"main": [
-		"angular-google-maps-geocoder.js"
-	],
+	"main": "angular-google-maps-geocoder.js",
 	"repository": {
 		"type": "git",
 		"url": "git@github.com:alexandernst/angular-google-maps-geocoder.git"
